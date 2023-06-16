@@ -14,3 +14,9 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 6. Relation between age and gender based on number?
 7. Which channel is contributing to maximum sales?
 8. Highest selling category? , etc. 
+
+# Data cleaning 
+correcting the columns . 
+checking null values. 
+checking and replacing duplicate values. 
+making a formula for age group =IF(E2>=50, "Senior",IF(E2>=30,"Adult","Teenager"))
