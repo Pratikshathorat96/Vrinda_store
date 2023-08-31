@@ -1,3 +1,6 @@
+![image](https://github.com/Pratikshathorat96/Vrinda_store/assets/120496034/ccb6a4e9-b7ea-441e-b292-4dbb480c43aa)
+
+
 # Vrinda Store Data Analysis
 
 Data analytics project on excel. 
